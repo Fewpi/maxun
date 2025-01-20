@@ -1,1 +1,1 @@
-### Maxun-Core
+### Maxun
